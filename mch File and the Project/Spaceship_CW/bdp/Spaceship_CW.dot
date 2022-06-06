@@ -1,0 +1,4 @@
+digraph {
+Spaceship [ label=" Spaceship " shape= box ]
+
+}
